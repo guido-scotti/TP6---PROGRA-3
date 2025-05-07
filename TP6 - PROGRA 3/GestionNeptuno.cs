@@ -11,11 +11,11 @@ namespace TP6___PROGRA_3
 {
 	public class GestionNeptuno
     {
-        public DataTable ObtenerProductos()
+        public DataTable ObtenerProductos(string query)
         {
             AccesoDatos datos = new AccesoDatos();
             DataSet ds = new DataSet();
-            SqlDataAdapter adaptador = datos.ObtenerAdaptador("SELECT IdProducto, NombreProducto, CantidadPorUnidad, PrecioUnidad FROM Productos");
+            SqlDataAdapter adaptador = datos.ObtenerAdaptador(query);
             adaptador.Fill(ds, "Productos");
             return ds.Tables["Productos"];
         }

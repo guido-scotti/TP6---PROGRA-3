@@ -24,7 +24,8 @@ namespace TP6___PROGRA_3
         private void CargarProductos()
         {
             GestionNeptuno gestion = new GestionNeptuno();
-            DataTable tabla = gestion.ObtenerProductos(); // Asegurate que esto devuelva los datos actualizados
+            string query = "SELECT IdProducto, NombreProducto, CantidadPorUnidad, PrecioUnidad FROM Productos";
+            DataTable tabla = gestion.ObtenerProductos(query); // Asegurate que esto devuelva los datos actualizados
             gridProductos.DataSource = tabla;
             gridProductos.DataBind();
         }

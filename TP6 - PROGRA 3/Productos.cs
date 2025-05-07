@@ -5,8 +5,17 @@ using System.Web;
 
 namespace TP6___PROGRA_3
 {
-	public class Productos
-	{
+
+    public class ProductoSeleccionado //EJERCICIO 2
+    {
+        public string IdProducto { get; set; }
+        public string NombreProducto { get; set; }
+        public string IdProveedor { get; set; }
+        public string PrecioUnitario { get; set; }
+    }
+
+    public class Productos //EJERCICIO 1
+    {
         /// PROPIEDADES
         private int _idProducto;
         private string _nombreProducto;

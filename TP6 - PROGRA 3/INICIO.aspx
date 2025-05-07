@@ -83,7 +83,7 @@
             </tr>
             <tr>
                 <td>
-                    <asp:HyperLink ID="hypEjercicio2" runat="server" NavigateUrl="~/Ejercicio2.aspx" Font-Bold="True" Font-Names="Bahnschrift" Font-Size="Medium" Font-Underline="True" ForeColor="#0066FF">&lt; EJERCICIO 2 &gt;</asp:HyperLink>
+                    <asp:HyperLink ID="hypEjercicio2" runat="server" NavigateUrl="~/InicioEj2.aspx" Font-Bold="True" Font-Names="Bahnschrift" Font-Size="Medium" Font-Underline="True" ForeColor="#0066FF">&lt; EJERCICIO 2 &gt;</asp:HyperLink>
                 </td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>

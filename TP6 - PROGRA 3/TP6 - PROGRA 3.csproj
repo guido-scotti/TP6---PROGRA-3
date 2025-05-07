@@ -67,20 +67,44 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Ejercicio2.aspx" />
+    <Content Include="EliminarProductos.aspx" />
+    <Content Include="ListarProductos.aspx" />
+    <Content Include="SeleccionarProductos.aspx" />
+    <Content Include="InicioEj2.aspx" />
     <Content Include="Web.config" />
     <Content Include="INICIO.aspx" />
     <Content Include="Ejercicio1.aspx" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AccesoDatos.cs" />
-    <Compile Include="GestionNeptuno.cs" />
-    <Compile Include="Ejercicio2.aspx.cs">
-      <DependentUpon>Ejercicio2.aspx</DependentUpon>
+    <Compile Include="EliminarProductos.aspx.cs">
+      <DependentUpon>EliminarProductos.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Ejercicio2.aspx.designer.cs">
-      <DependentUpon>Ejercicio2.aspx</DependentUpon>
+    <Compile Include="EliminarProductos.aspx.designer.cs">
+      <DependentUpon>EliminarProductos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="InicioEj2.aspx.cs">
+      <DependentUpon>InicioEj2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="InicioEj2.aspx.designer.cs">
+      <DependentUpon>InicioEj2.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ListarProductos.aspx.cs">
+      <DependentUpon>ListarProductos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ListarProductos.aspx.designer.cs">
+      <DependentUpon>ListarProductos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="GestionNeptuno.cs" />
+    <Compile Include="SeleccionarProductos.aspx.cs">
+      <DependentUpon>SeleccionarProductos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SeleccionarProductos.aspx.designer.cs">
+      <DependentUpon>SeleccionarProductos.aspx</DependentUpon>
     </Compile>
     <Compile Include="Productos.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
