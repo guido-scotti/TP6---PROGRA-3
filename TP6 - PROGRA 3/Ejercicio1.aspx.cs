@@ -6,7 +6,6 @@ using System.Linq;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
-using System.Globalization;
 using System.Data;
 
 namespace TP6___PROGRA_3
@@ -25,7 +24,7 @@ namespace TP6___PROGRA_3
         {
             GestionNeptuno gestion = new GestionNeptuno();
             string query = "SELECT IdProducto, NombreProducto, CantidadPorUnidad, PrecioUnidad FROM Productos";
-            DataTable tabla = gestion.ObtenerProductos(query); // Asegurate que esto devuelva los datos actualizados
+            DataTable tabla = gestion.ObtenerProductos(query); 
             gridProductos.DataSource = tabla;
             gridProductos.DataBind();
         }
@@ -59,32 +58,19 @@ namespace TP6___PROGRA_3
 
         protected void gridProductos_RowUpdating(object sender, GridViewUpdateEventArgs e)
         {
-            // Obtener los controles desde la fila que se está editando
-            string idTexto = ((Label)gridProductos.Rows[e.RowIndex].FindControl("lbl_it_idProducto"))?.Text;
-            string nuevoNombre = ((TextBox)gridProductos.Rows[e.RowIndex].FindControl("txtNombre"))?.Text;
-            string nuevoPrecioTexto = ((TextBox)gridProductos.Rows[e.RowIndex].FindControl("txtPrecio"))?.Text;
-            string nuevaCantidadTexto = ((TextBox)gridProductos.Rows[e.RowIndex].FindControl("txtCantidad"))?.Text;
 
-   
-            if (!int.TryParse(idTexto, out int id))
+            int id = Convert.ToInt32(((Label)gridProductos.Rows[e.RowIndex].FindControl("lbl_edit_idProd")).Text);
+            string nuevoNombre = ((TextBox)gridProductos.Rows[e.RowIndex].FindControl("txt_edit_nombreProd")).Text;
+            string nuevaCantidad = ((TextBox)gridProductos.Rows[e.RowIndex].FindControl("txt_edit_cantUnidad")).Text;
+            string precioTexto = ((TextBox)gridProductos.Rows[e.RowIndex].FindControl("txt_edit_precioUnidad")).Text;
+
+            decimal nuevoPrecio;
+            if (!decimal.TryParse(precioTexto, NumberStyles.Any, CultureInfo.InvariantCulture, out nuevoPrecio))
             {
-               // lblError.Text = "El ID del producto no es válido.";
+                // Manejo de error si no se puede convertir el precio
                 return;
             }
 
-            if (!decimal.TryParse(nuevoPrecioTexto, NumberStyles.Any, CultureInfo.InvariantCulture, out decimal nuevoPrecio))
-            {
-                //lblError.Text = "El precio ingresado no es válido.";
-                return;
-            }
-
-            if (!int.TryParse(nuevaCantidadTexto, out int nuevaCantidad))
-            {
-                //lblError.Text = "La cantidad ingresada no es válida.";
-                return;
-            }
-
-       
             Productos producto = new Productos(id, nuevoNombre, nuevoPrecio, nuevaCantidad);
 
        
@@ -95,5 +81,12 @@ namespace TP6___PROGRA_3
             gridProductos.EditIndex = -1;
             CargarProductos();
         }
+
+        protected void gridProductos_PageIndexChanging(object sender, GridViewPageEventArgs e)
+        {
+            gridProductos.PageIndex = e.NewPageIndex;
+            CargarProductos();
+        }
+
     }
 }

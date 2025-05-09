@@ -20,7 +20,7 @@ namespace TP6___PROGRA_3
         private int _idProducto;
         private string _nombreProducto;
         private decimal _precioUnidad;
-        private int _cantidadUnidad;
+        private string _cantidadUnidad;
  
 
         /// METODOS CONSTRUCTORES
@@ -34,7 +34,7 @@ namespace TP6___PROGRA_3
             _idProducto = idProducto;
         }
 
-        public Productos(int idProducto, string nombreProducto, decimal precioUnidad, int cantidadUnidad)
+        public Productos(int idProducto, string nombreProducto, decimal precioUnidad, string cantidadUnidad)
         {
             _idProducto = idProducto;
             _nombreProducto = nombreProducto;
@@ -76,7 +76,7 @@ namespace TP6___PROGRA_3
                 _precioUnidad = value;
             }
         }
-        public int cantidadUnidad
+        public string cantidadUnidad
         {
             get
             {

@@ -29,7 +29,7 @@ namespace TP6___PROGRA_3
 
         public void ActualizarProducto(Productos producto)
         {
-            string consulta = $"UPDATE Productos SET NombreProducto = '{producto.nombreProducto}', PrecioUnidad = {producto.precioUnidad.ToString(CultureInfo.InvariantCulture)}, CantidadUnidad = {producto.cantidadUnidad} WHERE IdProducto = {producto.IdProducto}";
+            string consulta = $"UPDATE Productos SET NombreProducto = '{producto.nombreProducto}', PrecioUnidad = {producto.precioUnidad.ToString(CultureInfo.InvariantCulture)}, CantidadPorUnidad = '{producto.cantidadUnidad}' WHERE IdProducto = {producto.IdProducto}";
             AccesoDatos datos = new AccesoDatos();
             datos.ejecutarConsulta(consulta);
         }
