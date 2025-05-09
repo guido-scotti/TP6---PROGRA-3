@@ -20,6 +20,7 @@ namespace TP6___PROGRA_3
             }
         }
 
+        //METODO PARA CARGAR LA GRID CON LOS PRODUCTOS
         private void CargarProductos()
         {
             GestionNeptuno gestion = new GestionNeptuno();
@@ -34,6 +35,7 @@ namespace TP6___PROGRA_3
 
         }
 
+        //EVENTO DE ELIMINACION DE FILA
         protected void gridProductos_RowDeleting(object sender, GridViewDeleteEventArgs e)
         {
             string idProducto = ((Label)gridProductos.Rows[e.RowIndex].FindControl("lbl_item_idprod")).Text;
@@ -43,19 +45,21 @@ namespace TP6___PROGRA_3
             CargarProductos();
         }
 
+        //EVENTO DE EDICION DE FILA
         protected void gridProductos_RowEditing(object sender, GridViewEditEventArgs e)
         {
             gridProductos.EditIndex = e.NewEditIndex;
             CargarProductos();
         }
 
+        //EVENTO DE CANCELACION DE EDICION DE FILA
         protected void gridProductos_RowCancelingEdit(object sender, GridViewCancelEditEventArgs e)
         {
             gridProductos.EditIndex = -1;
             CargarProductos(); 
         }
 
-
+        //EVENTO DE ACTUALIZACION DE EDICION DE FILA
         protected void gridProductos_RowUpdating(object sender, GridViewUpdateEventArgs e)
         {
 
@@ -82,6 +86,7 @@ namespace TP6___PROGRA_3
             CargarProductos();
         }
 
+        //EVENTO DE PAGINACION
         protected void gridProductos_PageIndexChanging(object sender, GridViewPageEventArgs e)
         {
             gridProductos.PageIndex = e.NewPageIndex;

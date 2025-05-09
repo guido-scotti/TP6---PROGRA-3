@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\scott\\OneDrive\\Desktop\\TP6 - PROGRA 3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{70EDFD68-3A44-4501-93F9-8B1861A91D7D}|TP6 - PROGRA 3\\TP6 - PROGRA 3.csproj|C:\\Users\\scott\\OneDrive\\Desktop\\TP6 - PROGRA 3\\tp6 - progra 3\\ejercicio1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{70EDFD68-3A44-4501-93F9-8B1861A91D7D}|TP6 - PROGRA 3\\TP6 - PROGRA 3.csproj|solutionrelative:tp6 - progra 3\\ejercicio1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70EDFD68-3A44-4501-93F9-8B1861A91D7D}|TP6 - PROGRA 3\\TP6 - PROGRA 3.csproj|C:\\Users\\scott\\OneDrive\\Desktop\\TP6 - PROGRA 3\\tp6 - progra 3\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70EDFD68-3A44-4501-93F9-8B1861A91D7D}|TP6 - PROGRA 3\\TP6 - PROGRA 3.csproj|solutionrelative:tp6 - progra 3\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70EDFD68-3A44-4501-93F9-8B1861A91D7D}|TP6 - PROGRA 3\\TP6 - PROGRA 3.csproj|C:\\Users\\scott\\OneDrive\\Desktop\\TP6 - PROGRA 3\\tp6 - progra 3\\inicioej2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{70EDFD68-3A44-4501-93F9-8B1861A91D7D}|TP6 - PROGRA 3\\TP6 - PROGRA 3.csproj|solutionrelative:tp6 - progra 3\\inicioej2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70EDFD68-3A44-4501-93F9-8B1861A91D7D}|TP6 - PROGRA 3\\TP6 - PROGRA 3.csproj|C:\\Users\\scott\\OneDrive\\Desktop\\TP6 - PROGRA 3\\tp6 - progra 3\\gestionneptuno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70EDFD68-3A44-4501-93F9-8B1861A91D7D}|TP6 - PROGRA 3\\TP6 - PROGRA 3.csproj|solutionrelative:tp6 - progra 3\\gestionneptuno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70EDFD68-3A44-4501-93F9-8B1861A91D7D}|TP6 - PROGRA 3\\TP6 - PROGRA 3.csproj|C:\\Users\\scott\\OneDrive\\Desktop\\TP6 - PROGRA 3\\tp6 - progra 3\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70EDFD68-3A44-4501-93F9-8B1861A91D7D}|TP6 - PROGRA 3\\TP6 - PROGRA 3.csproj|solutionrelative:tp6 - progra 3\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{70EDFD68-3A44-4501-93F9-8B1861A91D7D}|TP6 - PROGRA 3\\TP6 - PROGRA 3.csproj|c:\\users\\scott\\onedrive\\desktop\\tp6 - progra 3\\tp6 - progra 3\\ejercicio1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{70EDFD68-3A44-4501-93F9-8B1861A91D7D}|TP6 - PROGRA 3\\TP6 - PROGRA 3.csproj|solutionrelative:tp6 - progra 3\\ejercicio1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70EDFD68-3A44-4501-93F9-8B1861A91D7D}|TP6 - PROGRA 3\\TP6 - PROGRA 3.csproj|c:\\users\\scott\\onedrive\\desktop\\tp6 - progra 3\\tp6 - progra 3\\gestionneptuno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70EDFD68-3A44-4501-93F9-8B1861A91D7D}|TP6 - PROGRA 3\\TP6 - PROGRA 3.csproj|solutionrelative:tp6 - progra 3\\gestionneptuno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70EDFD68-3A44-4501-93F9-8B1861A91D7D}|TP6 - PROGRA 3\\TP6 - PROGRA 3.csproj|c:\\users\\scott\\onedrive\\desktop\\tp6 - progra 3\\tp6 - progra 3\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70EDFD68-3A44-4501-93F9-8B1861A91D7D}|TP6 - PROGRA 3\\TP6 - PROGRA 3.csproj|solutionrelative:tp6 - progra 3\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70EDFD68-3A44-4501-93F9-8B1861A91D7D}|TP6 - PROGRA 3\\TP6 - PROGRA 3.csproj|c:\\users\\scott\\onedrive\\desktop\\tp6 - progra 3\\tp6 - progra 3\\inicio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{70EDFD68-3A44-4501-93F9-8B1861A91D7D}|TP6 - PROGRA 3\\TP6 - PROGRA 3.csproj|C:\\Users\\scott\\OneDrive\\Desktop\\TP6 - PROGRA 3\\tp6 - progra 3\\inicio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{70EDFD68-3A44-4501-93F9-8B1861A91D7D}|TP6 - PROGRA 3\\TP6 - PROGRA 3.csproj|solutionrelative:tp6 - progra 3\\inicio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70EDFD68-3A44-4501-93F9-8B1861A91D7D}|TP6 - PROGRA 3\\TP6 - PROGRA 3.csproj|c:\\users\\scott\\onedrive\\desktop\\tp6 - progra 3\\tp6 - progra 3\\ejercicio1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{70EDFD68-3A44-4501-93F9-8B1861A91D7D}|TP6 - PROGRA 3\\TP6 - PROGRA 3.csproj|solutionrelative:tp6 - progra 3\\ejercicio1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70EDFD68-3A44-4501-93F9-8B1861A91D7D}|TP6 - PROGRA 3\\TP6 - PROGRA 3.csproj|c:\\users\\scott\\onedrive\\desktop\\tp6 - progra 3\\tp6 - progra 3\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70EDFD68-3A44-4501-93F9-8B1861A91D7D}|TP6 - PROGRA 3\\TP6 - PROGRA 3.csproj|solutionrelative:tp6 - progra 3\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70EDFD68-3A44-4501-93F9-8B1861A91D7D}|TP6 - PROGRA 3\\TP6 - PROGRA 3.csproj|c:\\users\\scott\\onedrive\\desktop\\tp6 - progra 3\\tp6 - progra 3\\inicioej2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{70EDFD68-3A44-4501-93F9-8B1861A91D7D}|TP6 - PROGRA 3\\TP6 - PROGRA 3.csproj|solutionrelative:tp6 - progra 3\\inicioej2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "INICIO.aspx",
               "DocumentMoniker": "C:\\Users\\scott\\OneDrive\\Desktop\\TP6 - PROGRA 3\\TP6 - PROGRA 3\\INICIO.aspx",
               "RelativeDocumentMoniker": "TP6 - PROGRA 3\\INICIO.aspx",
@@ -55,33 +55,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Ejercicio1.aspx.cs",
               "DocumentMoniker": "C:\\Users\\scott\\OneDrive\\Desktop\\TP6 - PROGRA 3\\TP6 - PROGRA 3\\Ejercicio1.aspx.cs",
               "RelativeDocumentMoniker": "TP6 - PROGRA 3\\Ejercicio1.aspx.cs",
               "ToolTip": "C:\\Users\\scott\\OneDrive\\Desktop\\TP6 - PROGRA 3\\TP6 - PROGRA 3\\Ejercicio1.aspx.cs",
               "RelativeToolTip": "TP6 - PROGRA 3\\Ejercicio1.aspx.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowEgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-08T23:58:58.704Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Productos.cs",
               "DocumentMoniker": "C:\\Users\\scott\\OneDrive\\Desktop\\TP6 - PROGRA 3\\TP6 - PROGRA 3\\Productos.cs",
               "RelativeDocumentMoniker": "TP6 - PROGRA 3\\Productos.cs",
               "ToolTip": "C:\\Users\\scott\\OneDrive\\Desktop\\TP6 - PROGRA 3\\TP6 - PROGRA 3\\Productos.cs",
               "RelativeToolTip": "TP6 - PROGRA 3\\Productos.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAkwE4AAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwE4AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-08T23:53:40.165Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "GestionNeptuno.cs",
               "DocumentMoniker": "C:\\Users\\scott\\OneDrive\\Desktop\\TP6 - PROGRA 3\\TP6 - PROGRA 3\\GestionNeptuno.cs",
               "RelativeDocumentMoniker": "TP6 - PROGRA 3\\GestionNeptuno.cs",
@@ -94,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "InicioEj2.aspx",
               "DocumentMoniker": "C:\\Users\\scott\\OneDrive\\Desktop\\TP6 - PROGRA 3\\TP6 - PROGRA 3\\InicioEj2.aspx",
               "RelativeDocumentMoniker": "TP6 - PROGRA 3\\InicioEj2.aspx",
@@ -107,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "AccesoDatos.cs",
               "DocumentMoniker": "C:\\Users\\scott\\OneDrive\\Desktop\\TP6 - PROGRA 3\\TP6 - PROGRA 3\\AccesoDatos.cs",
               "RelativeDocumentMoniker": "TP6 - PROGRA 3\\AccesoDatos.cs",
@@ -120,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Ejercicio1.aspx",
               "DocumentMoniker": "C:\\Users\\scott\\OneDrive\\Desktop\\TP6 - PROGRA 3\\TP6 - PROGRA 3\\Ejercicio1.aspx",
               "RelativeDocumentMoniker": "TP6 - PROGRA 3\\Ejercicio1.aspx",
