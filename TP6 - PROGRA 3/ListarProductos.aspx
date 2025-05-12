@@ -12,7 +12,7 @@
         <div style="margin-left: 40px">
             <asp:Label ID="Label2" runat="server" Font-Bold="True" Font-Size="20pt" Text="Productos seleccionados por el usuario:"></asp:Label>
         </div>
-        <asp:GridView ID="gridProductos" runat="server" AutoGenerateColumns="False" Font-Bold="True" Font-Names="Bahnschrift" Font-Size="Medium" Width="933px" AllowPaging="True" PageSize="14">
+        <asp:GridView ID="gridProductos" runat="server" AutoGenerateColumns="False" OnPageIndexChanging="gridProductos_PageIndexChanging" Font-Bold="True" Font-Names="Bahnschrift" Font-Size="Medium" Width="933px" AllowPaging="True" PageSize="14">
             <Columns>
                 <asp:TemplateField HeaderText="ID de producto">
                     <ItemTemplate>

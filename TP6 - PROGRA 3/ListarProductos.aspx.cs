@@ -16,14 +16,13 @@ namespace TP6___PROGRA_3
                 List<ProductoSeleccionado> productos = Session["productosSeleccionados"] as List<ProductoSeleccionado>;
 
 
-
                 if (productos != null && productos.Count != 0)
                 {
-                    
-                    
 
-                        gridProductos.DataSource = productos;
-                        gridProductos.DataBind();
+
+
+                    gridProductos.DataSource = productos;
+                    gridProductos.DataBind();
 
 
                 }
@@ -34,5 +33,20 @@ namespace TP6___PROGRA_3
 
             }
         }
+
+        protected void gridProductos_PageIndexChanging(object sender, GridViewPageEventArgs e)
+        {
+            gridProductos.PageIndex = e.NewPageIndex;
+
+            
+            List<ProductoSeleccionado> productos = Session["productosSeleccionados"] as List<ProductoSeleccionado>;
+            if (productos != null)
+            {
+                gridProductos.DataSource = productos;
+                gridProductos.DataBind();
+            }
+        }
+
+
     }
 }
