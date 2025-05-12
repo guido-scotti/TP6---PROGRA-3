@@ -8,7 +8,7 @@ namespace TP6___PROGRA_3
 {
 	public class AccesoDatos
 	{
-        string cadenaConexion = @"Data Source=DESKTOP-GUU4RQA\SQLEXPRESS;Initial Catalog=Neptuno;Integrated Security=True;Encrypt=True;TrustServerCertificate=True";
+        string cadenaConexion = "Data Source=localhost\\sqlexpress; Initial Catalog=Neptuno; Integrated Security=True";
         public SqlDataAdapter ObtenerAdaptador(string consultaSQL)
         {
             SqlConnection conexion = new SqlConnection(cadenaConexion);

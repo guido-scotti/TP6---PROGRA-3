@@ -13,6 +13,16 @@ namespace TP6___PROGRA_3
         protected void Page_Load(object sender, EventArgs e)
         {
 
+            if (!IsPostBack)
+            {
+                
+            }
+
+        }
+
+        protected void linkButton_Click(object sender, EventArgs e)
+        {
+            Session["productosSeleccionados"]=null;
         }
     }
 }

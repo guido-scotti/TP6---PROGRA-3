@@ -20,6 +20,7 @@ namespace TP6___PROGRA_3
 		private void CargarProductos()
         {
             GestionNeptuno gestion = new GestionNeptuno();
+            //discriminar elementos en la query
             string query = "SELECT IdProducto, NombreProducto, CantidadPorUnidad, PrecioUnidad FROM Productos";
             gridProductos.DataSource = gestion.ObtenerProductos(query);
             gridProductos.DataBind();
@@ -71,5 +72,11 @@ namespace TP6___PROGRA_3
             gridProductos.PageIndex = e.NewPageIndex;
             CargarProductos();
         }
+    
+    
+        
+
+
+
     }
 }

@@ -1,34 +1,74 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\scott\\OneDrive\\Desktop\\TP6 - PROGRA 3\\",
+  "WorkspaceRootPath": "C:\\Users\\luka\\OneDrive - frgp.utn.edu.ar\\Escritorio\\TP6---PROGRA-3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{70EDFD68-3A44-4501-93F9-8B1861A91D7D}|TP6 - PROGRA 3\\TP6 - PROGRA 3.csproj|C:\\Users\\scott\\OneDrive\\Desktop\\TP6 - PROGRA 3\\tp6 - progra 3\\ejercicio1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{70EDFD68-3A44-4501-93F9-8B1861A91D7D}|TP6 - PROGRA 3\\TP6 - PROGRA 3.csproj|solutionrelative:tp6 - progra 3\\ejercicio1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70EDFD68-3A44-4501-93F9-8B1861A91D7D}|TP6 - PROGRA 3\\TP6 - PROGRA 3.csproj|C:\\Users\\scott\\OneDrive\\Desktop\\TP6 - PROGRA 3\\tp6 - progra 3\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70EDFD68-3A44-4501-93F9-8B1861A91D7D}|TP6 - PROGRA 3\\TP6 - PROGRA 3.csproj|solutionrelative:tp6 - progra 3\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70EDFD68-3A44-4501-93F9-8B1861A91D7D}|TP6 - PROGRA 3\\TP6 - PROGRA 3.csproj|C:\\Users\\scott\\OneDrive\\Desktop\\TP6 - PROGRA 3\\tp6 - progra 3\\inicioej2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{70EDFD68-3A44-4501-93F9-8B1861A91D7D}|TP6 - PROGRA 3\\TP6 - PROGRA 3.csproj|C:\\Users\\luka\\OneDrive - frgp.utn.edu.ar\\Escritorio\\TP6---PROGRA-3\\tp6 - progra 3\\inicioej2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{70EDFD68-3A44-4501-93F9-8B1861A91D7D}|TP6 - PROGRA 3\\TP6 - PROGRA 3.csproj|solutionrelative:tp6 - progra 3\\inicioej2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70EDFD68-3A44-4501-93F9-8B1861A91D7D}|TP6 - PROGRA 3\\TP6 - PROGRA 3.csproj|C:\\Users\\scott\\OneDrive\\Desktop\\TP6 - PROGRA 3\\tp6 - progra 3\\gestionneptuno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70EDFD68-3A44-4501-93F9-8B1861A91D7D}|TP6 - PROGRA 3\\TP6 - PROGRA 3.csproj|solutionrelative:tp6 - progra 3\\gestionneptuno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{70EDFD68-3A44-4501-93F9-8B1861A91D7D}|TP6 - PROGRA 3\\TP6 - PROGRA 3.csproj|C:\\Users\\luka\\OneDrive - frgp.utn.edu.ar\\Escritorio\\TP6---PROGRA-3\\tp6 - progra 3\\inicioej2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70EDFD68-3A44-4501-93F9-8B1861A91D7D}|TP6 - PROGRA 3\\TP6 - PROGRA 3.csproj|solutionrelative:tp6 - progra 3\\inicioej2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70EDFD68-3A44-4501-93F9-8B1861A91D7D}|TP6 - PROGRA 3\\TP6 - PROGRA 3.csproj|C:\\Users\\scott\\OneDrive\\Desktop\\TP6 - PROGRA 3\\tp6 - progra 3\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70EDFD68-3A44-4501-93F9-8B1861A91D7D}|TP6 - PROGRA 3\\TP6 - PROGRA 3.csproj|solutionrelative:tp6 - progra 3\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{70EDFD68-3A44-4501-93F9-8B1861A91D7D}|TP6 - PROGRA 3\\TP6 - PROGRA 3.csproj|C:\\Users\\luka\\OneDrive - frgp.utn.edu.ar\\Escritorio\\TP6---PROGRA-3\\tp6 - progra 3\\listarproductos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70EDFD68-3A44-4501-93F9-8B1861A91D7D}|TP6 - PROGRA 3\\TP6 - PROGRA 3.csproj|solutionrelative:tp6 - progra 3\\listarproductos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70EDFD68-3A44-4501-93F9-8B1861A91D7D}|TP6 - PROGRA 3\\TP6 - PROGRA 3.csproj|c:\\users\\scott\\onedrive\\desktop\\tp6 - progra 3\\tp6 - progra 3\\ejercicio1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{70EDFD68-3A44-4501-93F9-8B1861A91D7D}|TP6 - PROGRA 3\\TP6 - PROGRA 3.csproj|C:\\Users\\luka\\OneDrive - frgp.utn.edu.ar\\Escritorio\\TP6---PROGRA-3\\tp6 - progra 3\\seleccionarproductos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70EDFD68-3A44-4501-93F9-8B1861A91D7D}|TP6 - PROGRA 3\\TP6 - PROGRA 3.csproj|solutionrelative:tp6 - progra 3\\seleccionarproductos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70EDFD68-3A44-4501-93F9-8B1861A91D7D}|TP6 - PROGRA 3\\TP6 - PROGRA 3.csproj|C:\\Users\\luka\\OneDrive - frgp.utn.edu.ar\\Escritorio\\TP6---PROGRA-3\\tp6 - progra 3\\listarproductos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{70EDFD68-3A44-4501-93F9-8B1861A91D7D}|TP6 - PROGRA 3\\TP6 - PROGRA 3.csproj|solutionrelative:tp6 - progra 3\\listarproductos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70EDFD68-3A44-4501-93F9-8B1861A91D7D}|TP6 - PROGRA 3\\TP6 - PROGRA 3.csproj|C:\\Users\\luka\\OneDrive - frgp.utn.edu.ar\\Escritorio\\TP6---PROGRA-3\\tp6 - progra 3\\seleccionarproductos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{70EDFD68-3A44-4501-93F9-8B1861A91D7D}|TP6 - PROGRA 3\\TP6 - PROGRA 3.csproj|solutionrelative:tp6 - progra 3\\seleccionarproductos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70EDFD68-3A44-4501-93F9-8B1861A91D7D}|TP6 - PROGRA 3\\TP6 - PROGRA 3.csproj|C:\\Users\\luka\\OneDrive - frgp.utn.edu.ar\\Escritorio\\TP6---PROGRA-3\\tp6 - progra 3\\listarproductos.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70EDFD68-3A44-4501-93F9-8B1861A91D7D}|TP6 - PROGRA 3\\TP6 - PROGRA 3.csproj|solutionrelative:tp6 - progra 3\\listarproductos.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70EDFD68-3A44-4501-93F9-8B1861A91D7D}|TP6 - PROGRA 3\\TP6 - PROGRA 3.csproj|c:\\users\\luka\\onedrive - frgp.utn.edu.ar\\escritorio\\tp6---progra-3\\tp6 - progra 3\\ejercicio1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{70EDFD68-3A44-4501-93F9-8B1861A91D7D}|TP6 - PROGRA 3\\TP6 - PROGRA 3.csproj|solutionrelative:tp6 - progra 3\\ejercicio1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70EDFD68-3A44-4501-93F9-8B1861A91D7D}|TP6 - PROGRA 3\\TP6 - PROGRA 3.csproj|C:\\Users\\scott\\OneDrive\\Desktop\\TP6 - PROGRA 3\\tp6 - progra 3\\inicio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{70EDFD68-3A44-4501-93F9-8B1861A91D7D}|TP6 - PROGRA 3\\TP6 - PROGRA 3.csproj|C:\\Users\\luka\\OneDrive - frgp.utn.edu.ar\\Escritorio\\TP6---PROGRA-3\\tp6 - progra 3\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70EDFD68-3A44-4501-93F9-8B1861A91D7D}|TP6 - PROGRA 3\\TP6 - PROGRA 3.csproj|solutionrelative:tp6 - progra 3\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70EDFD68-3A44-4501-93F9-8B1861A91D7D}|TP6 - PROGRA 3\\TP6 - PROGRA 3.csproj|C:\\Users\\luka\\OneDrive - frgp.utn.edu.ar\\Escritorio\\TP6---PROGRA-3\\tp6 - progra 3\\gestionneptuno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70EDFD68-3A44-4501-93F9-8B1861A91D7D}|TP6 - PROGRA 3\\TP6 - PROGRA 3.csproj|solutionrelative:tp6 - progra 3\\gestionneptuno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70EDFD68-3A44-4501-93F9-8B1861A91D7D}|TP6 - PROGRA 3\\TP6 - PROGRA 3.csproj|C:\\Users\\luka\\OneDrive - frgp.utn.edu.ar\\Escritorio\\TP6---PROGRA-3\\tp6 - progra 3\\ejercicio1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{70EDFD68-3A44-4501-93F9-8B1861A91D7D}|TP6 - PROGRA 3\\TP6 - PROGRA 3.csproj|solutionrelative:tp6 - progra 3\\ejercicio1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70EDFD68-3A44-4501-93F9-8B1861A91D7D}|TP6 - PROGRA 3\\TP6 - PROGRA 3.csproj|C:\\Users\\luka\\OneDrive - frgp.utn.edu.ar\\Escritorio\\TP6---PROGRA-3\\tp6 - progra 3\\inicio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{70EDFD68-3A44-4501-93F9-8B1861A91D7D}|TP6 - PROGRA 3\\TP6 - PROGRA 3.csproj|solutionrelative:tp6 - progra 3\\inicio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70EDFD68-3A44-4501-93F9-8B1861A91D7D}|TP6 - PROGRA 3\\TP6 - PROGRA 3.csproj|c:\\users\\luka\\onedrive - frgp.utn.edu.ar\\escritorio\\tp6---progra-3\\tp6 - progra 3\\eliminarproductos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{70EDFD68-3A44-4501-93F9-8B1861A91D7D}|TP6 - PROGRA 3\\TP6 - PROGRA 3.csproj|solutionrelative:tp6 - progra 3\\eliminarproductos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70EDFD68-3A44-4501-93F9-8B1861A91D7D}|TP6 - PROGRA 3\\TP6 - PROGRA 3.csproj|C:\\Users\\luka\\OneDrive - frgp.utn.edu.ar\\Escritorio\\TP6---PROGRA-3\\tp6 - progra 3\\seleccionarproductos.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70EDFD68-3A44-4501-93F9-8B1861A91D7D}|TP6 - PROGRA 3\\TP6 - PROGRA 3.csproj|solutionrelative:tp6 - progra 3\\seleccionarproductos.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70EDFD68-3A44-4501-93F9-8B1861A91D7D}|TP6 - PROGRA 3\\TP6 - PROGRA 3.csproj|C:\\Users\\luka\\OneDrive - frgp.utn.edu.ar\\Escritorio\\TP6---PROGRA-3\\tp6 - progra 3\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70EDFD68-3A44-4501-93F9-8B1861A91D7D}|TP6 - PROGRA 3\\TP6 - PROGRA 3.csproj|solutionrelative:tp6 - progra 3\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70EDFD68-3A44-4501-93F9-8B1861A91D7D}|TP6 - PROGRA 3\\TP6 - PROGRA 3.csproj|C:\\Users\\luka\\OneDrive - frgp.utn.edu.ar\\Escritorio\\TP6---PROGRA-3\\tp6 - progra 3\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{70EDFD68-3A44-4501-93F9-8B1861A91D7D}|TP6 - PROGRA 3\\TP6 - PROGRA 3.csproj|solutionrelative:tp6 - progra 3\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70EDFD68-3A44-4501-93F9-8B1861A91D7D}|TP6 - PROGRA 3\\TP6 - PROGRA 3.csproj|C:\\Users\\luka\\OneDrive - frgp.utn.edu.ar\\Escritorio\\TP6---PROGRA-3\\tp6 - progra 3\\inicioej2.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70EDFD68-3A44-4501-93F9-8B1861A91D7D}|TP6 - PROGRA 3\\TP6 - PROGRA 3.csproj|solutionrelative:tp6 - progra 3\\inicioej2.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,67 +78,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "INICIO.aspx",
-              "DocumentMoniker": "C:\\Users\\scott\\OneDrive\\Desktop\\TP6 - PROGRA 3\\TP6 - PROGRA 3\\INICIO.aspx",
-              "RelativeDocumentMoniker": "TP6 - PROGRA 3\\INICIO.aspx",
-              "ToolTip": "C:\\Users\\scott\\OneDrive\\Desktop\\TP6 - PROGRA 3\\TP6 - PROGRA 3\\INICIO.aspx",
-              "RelativeToolTip": "TP6 - PROGRA 3\\INICIO.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-05-09T00:55:50.216Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Ejercicio1.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\scott\\OneDrive\\Desktop\\TP6 - PROGRA 3\\TP6 - PROGRA 3\\Ejercicio1.aspx.cs",
-              "RelativeDocumentMoniker": "TP6 - PROGRA 3\\Ejercicio1.aspx.cs",
-              "ToolTip": "C:\\Users\\scott\\OneDrive\\Desktop\\TP6 - PROGRA 3\\TP6 - PROGRA 3\\Ejercicio1.aspx.cs",
-              "RelativeToolTip": "TP6 - PROGRA 3\\Ejercicio1.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T23:58:58.704Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Productos.cs",
-              "DocumentMoniker": "C:\\Users\\scott\\OneDrive\\Desktop\\TP6 - PROGRA 3\\TP6 - PROGRA 3\\Productos.cs",
-              "RelativeDocumentMoniker": "TP6 - PROGRA 3\\Productos.cs",
-              "ToolTip": "C:\\Users\\scott\\OneDrive\\Desktop\\TP6 - PROGRA 3\\TP6 - PROGRA 3\\Productos.cs",
-              "RelativeToolTip": "TP6 - PROGRA 3\\Productos.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwE4AAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T23:53:40.165Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GestionNeptuno.cs",
-              "DocumentMoniker": "C:\\Users\\scott\\OneDrive\\Desktop\\TP6 - PROGRA 3\\TP6 - PROGRA 3\\GestionNeptuno.cs",
-              "RelativeDocumentMoniker": "TP6 - PROGRA 3\\GestionNeptuno.cs",
-              "ToolTip": "C:\\Users\\scott\\OneDrive\\Desktop\\TP6 - PROGRA 3\\TP6 - PROGRA 3\\GestionNeptuno.cs",
-              "RelativeToolTip": "TP6 - PROGRA 3\\GestionNeptuno.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T23:55:12.955Z",
+              "Title": "ListarProductos.aspx",
+              "DocumentMoniker": "C:\\Users\\luka\\OneDrive - frgp.utn.edu.ar\\Escritorio\\TP6---PROGRA-3\\TP6 - PROGRA 3\\ListarProductos.aspx",
+              "RelativeDocumentMoniker": "TP6 - PROGRA 3\\ListarProductos.aspx",
+              "ToolTip": "C:\\Users\\luka\\OneDrive - frgp.utn.edu.ar\\Escritorio\\TP6---PROGRA-3\\TP6 - PROGRA 3\\ListarProductos.aspx",
+              "RelativeToolTip": "TP6 - PROGRA 3\\ListarProductos.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-11T19:52:10.49Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "ListarProductos.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\luka\\OneDrive - frgp.utn.edu.ar\\Escritorio\\TP6---PROGRA-3\\TP6 - PROGRA 3\\ListarProductos.aspx.cs",
+              "RelativeDocumentMoniker": "TP6 - PROGRA 3\\ListarProductos.aspx.cs",
+              "ToolTip": "C:\\Users\\luka\\OneDrive - frgp.utn.edu.ar\\Escritorio\\TP6---PROGRA-3\\TP6 - PROGRA 3\\ListarProductos.aspx.cs",
+              "RelativeToolTip": "TP6 - PROGRA 3\\ListarProductos.aspx.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T20:28:39.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "InicioEj2.aspx",
-              "DocumentMoniker": "C:\\Users\\scott\\OneDrive\\Desktop\\TP6 - PROGRA 3\\TP6 - PROGRA 3\\InicioEj2.aspx",
+              "DocumentMoniker": "C:\\Users\\luka\\OneDrive - frgp.utn.edu.ar\\Escritorio\\TP6---PROGRA-3\\TP6 - PROGRA 3\\InicioEj2.aspx",
               "RelativeDocumentMoniker": "TP6 - PROGRA 3\\InicioEj2.aspx",
-              "ToolTip": "C:\\Users\\scott\\OneDrive\\Desktop\\TP6 - PROGRA 3\\TP6 - PROGRA 3\\InicioEj2.aspx",
+              "ToolTip": "C:\\Users\\luka\\OneDrive - frgp.utn.edu.ar\\Escritorio\\TP6---PROGRA-3\\TP6 - PROGRA 3\\InicioEj2.aspx",
               "RelativeToolTip": "TP6 - PROGRA 3\\InicioEj2.aspx",
               "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -107,28 +125,184 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SeleccionarProductos.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\luka\\OneDrive - frgp.utn.edu.ar\\Escritorio\\TP6---PROGRA-3\\TP6 - PROGRA 3\\SeleccionarProductos.aspx.cs",
+              "RelativeDocumentMoniker": "TP6 - PROGRA 3\\SeleccionarProductos.aspx.cs",
+              "ToolTip": "C:\\Users\\luka\\OneDrive - frgp.utn.edu.ar\\Escritorio\\TP6---PROGRA-3\\TP6 - PROGRA 3\\SeleccionarProductos.aspx.cs",
+              "RelativeToolTip": "TP6 - PROGRA 3\\SeleccionarProductos.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwDgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T20:56:10.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "InicioEj2.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\luka\\OneDrive - frgp.utn.edu.ar\\Escritorio\\TP6---PROGRA-3\\TP6 - PROGRA 3\\InicioEj2.aspx.cs",
+              "RelativeDocumentMoniker": "TP6 - PROGRA 3\\InicioEj2.aspx.cs",
+              "ToolTip": "C:\\Users\\luka\\OneDrive - frgp.utn.edu.ar\\Escritorio\\TP6---PROGRA-3\\TP6 - PROGRA 3\\InicioEj2.aspx.cs",
+              "RelativeToolTip": "TP6 - PROGRA 3\\InicioEj2.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:26:53.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SeleccionarProductos.aspx",
+              "DocumentMoniker": "C:\\Users\\luka\\OneDrive - frgp.utn.edu.ar\\Escritorio\\TP6---PROGRA-3\\TP6 - PROGRA 3\\SeleccionarProductos.aspx",
+              "RelativeDocumentMoniker": "TP6 - PROGRA 3\\SeleccionarProductos.aspx",
+              "ToolTip": "C:\\Users\\luka\\OneDrive - frgp.utn.edu.ar\\Escritorio\\TP6---PROGRA-3\\TP6 - PROGRA 3\\SeleccionarProductos.aspx",
+              "RelativeToolTip": "TP6 - PROGRA 3\\SeleccionarProductos.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-11T19:55:39.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ListarProductos.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\luka\\OneDrive - frgp.utn.edu.ar\\Escritorio\\TP6---PROGRA-3\\TP6 - PROGRA 3\\ListarProductos.aspx.designer.cs",
+              "RelativeDocumentMoniker": "TP6 - PROGRA 3\\ListarProductos.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\luka\\OneDrive - frgp.utn.edu.ar\\Escritorio\\TP6---PROGRA-3\\TP6 - PROGRA 3\\ListarProductos.aspx.designer.cs",
+              "RelativeToolTip": "TP6 - PROGRA 3\\ListarProductos.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T20:28:48.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "AccesoDatos.cs",
-              "DocumentMoniker": "C:\\Users\\scott\\OneDrive\\Desktop\\TP6 - PROGRA 3\\TP6 - PROGRA 3\\AccesoDatos.cs",
+              "DocumentMoniker": "C:\\Users\\luka\\OneDrive - frgp.utn.edu.ar\\Escritorio\\TP6---PROGRA-3\\TP6 - PROGRA 3\\AccesoDatos.cs",
               "RelativeDocumentMoniker": "TP6 - PROGRA 3\\AccesoDatos.cs",
-              "ToolTip": "C:\\Users\\scott\\OneDrive\\Desktop\\TP6 - PROGRA 3\\TP6 - PROGRA 3\\AccesoDatos.cs",
+              "ToolTip": "C:\\Users\\luka\\OneDrive - frgp.utn.edu.ar\\Escritorio\\TP6---PROGRA-3\\TP6 - PROGRA 3\\AccesoDatos.cs",
               "RelativeToolTip": "TP6 - PROGRA 3\\AccesoDatos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAACSAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-08T23:56:39.669Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
+              "Title": "GestionNeptuno.cs",
+              "DocumentMoniker": "C:\\Users\\luka\\OneDrive - frgp.utn.edu.ar\\Escritorio\\TP6---PROGRA-3\\TP6 - PROGRA 3\\GestionNeptuno.cs",
+              "RelativeDocumentMoniker": "TP6 - PROGRA 3\\GestionNeptuno.cs",
+              "ToolTip": "C:\\Users\\luka\\OneDrive - frgp.utn.edu.ar\\Escritorio\\TP6---PROGRA-3\\TP6 - PROGRA 3\\GestionNeptuno.cs",
+              "RelativeToolTip": "TP6 - PROGRA 3\\GestionNeptuno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T23:55:12.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Ejercicio1.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\luka\\OneDrive - frgp.utn.edu.ar\\Escritorio\\TP6---PROGRA-3\\TP6 - PROGRA 3\\Ejercicio1.aspx.cs",
+              "RelativeDocumentMoniker": "TP6 - PROGRA 3\\Ejercicio1.aspx.cs",
+              "ToolTip": "C:\\Users\\luka\\OneDrive - frgp.utn.edu.ar\\Escritorio\\TP6---PROGRA-3\\TP6 - PROGRA 3\\Ejercicio1.aspx.cs",
+              "RelativeToolTip": "TP6 - PROGRA 3\\Ejercicio1.aspx.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T23:58:58.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Ejercicio1.aspx",
-              "DocumentMoniker": "C:\\Users\\scott\\OneDrive\\Desktop\\TP6 - PROGRA 3\\TP6 - PROGRA 3\\Ejercicio1.aspx",
+              "DocumentMoniker": "C:\\Users\\luka\\OneDrive - frgp.utn.edu.ar\\Escritorio\\TP6---PROGRA-3\\TP6 - PROGRA 3\\Ejercicio1.aspx",
               "RelativeDocumentMoniker": "TP6 - PROGRA 3\\Ejercicio1.aspx",
-              "ToolTip": "C:\\Users\\scott\\OneDrive\\Desktop\\TP6 - PROGRA 3\\TP6 - PROGRA 3\\Ejercicio1.aspx",
+              "ToolTip": "C:\\Users\\luka\\OneDrive - frgp.utn.edu.ar\\Escritorio\\TP6---PROGRA-3\\TP6 - PROGRA 3\\Ejercicio1.aspx",
               "RelativeToolTip": "TP6 - PROGRA 3\\Ejercicio1.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2025-05-08T23:53:30.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "INICIO.aspx",
+              "DocumentMoniker": "C:\\Users\\luka\\OneDrive - frgp.utn.edu.ar\\Escritorio\\TP6---PROGRA-3\\TP6 - PROGRA 3\\INICIO.aspx",
+              "RelativeDocumentMoniker": "TP6 - PROGRA 3\\INICIO.aspx",
+              "ToolTip": "C:\\Users\\luka\\OneDrive - frgp.utn.edu.ar\\Escritorio\\TP6---PROGRA-3\\TP6 - PROGRA 3\\INICIO.aspx",
+              "RelativeToolTip": "TP6 - PROGRA 3\\INICIO.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-09T00:55:50.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EliminarProductos.aspx",
+              "DocumentMoniker": "C:\\Users\\luka\\OneDrive - frgp.utn.edu.ar\\Escritorio\\TP6---PROGRA-3\\TP6 - PROGRA 3\\EliminarProductos.aspx",
+              "RelativeDocumentMoniker": "TP6 - PROGRA 3\\EliminarProductos.aspx",
+              "ToolTip": "C:\\Users\\luka\\OneDrive - frgp.utn.edu.ar\\Escritorio\\TP6---PROGRA-3\\TP6 - PROGRA 3\\EliminarProductos.aspx",
+              "RelativeToolTip": "TP6 - PROGRA 3\\EliminarProductos.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-12T11:54:26.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SeleccionarProductos.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\luka\\OneDrive - frgp.utn.edu.ar\\Escritorio\\TP6---PROGRA-3\\TP6 - PROGRA 3\\SeleccionarProductos.aspx.designer.cs",
+              "RelativeDocumentMoniker": "TP6 - PROGRA 3\\SeleccionarProductos.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\luka\\OneDrive - frgp.utn.edu.ar\\Escritorio\\TP6---PROGRA-3\\TP6 - PROGRA 3\\SeleccionarProductos.aspx.designer.cs",
+              "RelativeToolTip": "TP6 - PROGRA 3\\SeleccionarProductos.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T03:29:53.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Productos.cs",
+              "DocumentMoniker": "C:\\Users\\luka\\OneDrive - frgp.utn.edu.ar\\Escritorio\\TP6---PROGRA-3\\TP6 - PROGRA 3\\Productos.cs",
+              "RelativeDocumentMoniker": "TP6 - PROGRA 3\\Productos.cs",
+              "ToolTip": "C:\\Users\\luka\\OneDrive - frgp.utn.edu.ar\\Escritorio\\TP6---PROGRA-3\\TP6 - PROGRA 3\\Productos.cs",
+              "RelativeToolTip": "TP6 - PROGRA 3\\Productos.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T23:53:40.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\luka\\OneDrive - frgp.utn.edu.ar\\Escritorio\\TP6---PROGRA-3\\TP6 - PROGRA 3\\packages.config",
+              "RelativeDocumentMoniker": "TP6 - PROGRA 3\\packages.config",
+              "ToolTip": "C:\\Users\\luka\\OneDrive - frgp.utn.edu.ar\\Escritorio\\TP6---PROGRA-3\\TP6 - PROGRA 3\\packages.config",
+              "RelativeToolTip": "TP6 - PROGRA 3\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-11T20:45:27.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "InicioEj2.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\luka\\OneDrive - frgp.utn.edu.ar\\Escritorio\\TP6---PROGRA-3\\TP6 - PROGRA 3\\InicioEj2.aspx.designer.cs",
+              "RelativeDocumentMoniker": "TP6 - PROGRA 3\\InicioEj2.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\luka\\OneDrive - frgp.utn.edu.ar\\Escritorio\\TP6---PROGRA-3\\TP6 - PROGRA 3\\InicioEj2.aspx.designer.cs",
+              "RelativeToolTip": "TP6 - PROGRA 3\\InicioEj2.aspx.designer.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:26:56.173Z",
               "EditorCaption": ""
             }
           ]

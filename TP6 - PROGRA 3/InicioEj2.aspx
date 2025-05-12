@@ -9,9 +9,15 @@
 </head>
 <body>
     <form id="form1" runat="server">
+        <div>
         <asp:HyperLink ID="HyperLink1" NavigateUrl='SeleccionarProductos.aspx' runat="server">Seleccionar Productos</asp:HyperLink>
-        <asp:HyperLink ID="HyperLink2" NavigateUrl='EliminarProductos.aspx' runat="server">Eliminar productos</asp:HyperLink>
-        <asp:HyperLink ID="HyperLink3" NavigateUrl='ListarProductos.aspx' runat="server">Listar Productos</asp:HyperLink>
+        </div>
+        <div>
+            <asp:linkButton ID="linkButton" NavigateUrl='EliminarProductos.aspx' runat="server" OnClick="linkButton_Click">Eliminar productos</asp:linkButton>
+        </div>
+        <div>
+            <asp:HyperLink ID="HyperLink3" NavigateUrl='ListarProductos.aspx' runat="server">Listar Productos</asp:HyperLink>
+        </div>
     </form>
 </body>
 </html>

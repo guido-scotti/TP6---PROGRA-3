@@ -14,12 +14,22 @@ namespace TP6___PROGRA_3
             if (!IsPostBack)
             {
                 List<ProductoSeleccionado> productos = Session["productosSeleccionados"] as List<ProductoSeleccionado>;
-                if (productos != null)
-                {
-                    foreach (var p in productos)
-                    {
 
-                    }
+
+
+                if (productos != null && productos.Count != 0)
+                {
+                    
+                    
+
+                        gridProductos.DataSource = productos;
+                        gridProductos.DataBind();
+
+
+                }
+                else
+                {
+                    Label1.Text = "No hay Productos seleccionados";
                 }
 
             }

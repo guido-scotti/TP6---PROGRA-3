@@ -9,6 +9,9 @@
 </head>
 <body>
     <form id="form1" runat="server">
+        <div style="margin-left: 40px">
+            <asp:Label ID="Label2" runat="server" Font-Bold="True" Font-Size="20pt" Text="Productos seleccionados por el usuario:"></asp:Label>
+        </div>
         <asp:GridView ID="gridProductos" runat="server" AutoGenerateColumns="False" Font-Bold="True" Font-Names="Bahnschrift" Font-Size="Medium" Width="933px" AllowPaging="True" PageSize="14">
             <Columns>
                 <asp:TemplateField HeaderText="ID de producto">
@@ -23,18 +26,26 @@
                 </asp:TemplateField>
                 <asp:TemplateField HeaderText="Id Proveedor">
                     <ItemTemplate>
-                        <asp:Label ID="lbl_idProveedor" runat="server" Text='<%# Bind("CantidadPorUnidad") %>'></asp:Label>
+                        <asp:Label ID="lbl_idProveedor" runat="server" Text='<%# Bind("IdProveedor") %>'></asp:Label>
                     </ItemTemplate>
                 </asp:TemplateField>
                 <asp:TemplateField HeaderText="Precio Unitario">
                     <ItemTemplate>
-                        <asp:Label ID="lbl_precioUnitario" runat="server" Text='<%# Bind("PrecioUnidad") %>'></asp:Label>
+                        <asp:Label ID="lbl_precioUnitario" runat="server" Text='<%# Bind("precioUnitario") %>'></asp:Label>
                     </ItemTemplate>
                 </asp:TemplateField>
             </Columns>
             <EditRowStyle BackColor="#999999" />
             <HeaderStyle BackColor="#000099" Font-Bold="True" ForeColor="White" />
         </asp:GridView>
+
+        <div style="margin-left: 40px">
+            <asp:Label ID="Label1" runat="server"></asp:Label>
+        </div>
+&nbsp;&nbsp;&nbsp;
+        <br />
+        <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl='InicioEj2.aspx'>Volver al incio</asp:HyperLink>
+
     </form>
 </body>
 </html>
